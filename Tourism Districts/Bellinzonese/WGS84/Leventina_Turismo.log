@@ -1,0 +1,37 @@
+﻿--------------------------------------------------------------------------------
+swisstopo GeoSuite
+3/22/2024 9:37 PM
+--------------------------------------------------------------------------------
+
+Transformationen:
+-----------------
+
+1:      REFRAME
+        -------
+
+        Lage-Transformation:    ja
+                Input:          Landeskoordinaten LV95 (CH1903+)
+                                Format: LV95 (Bern=2600/1200 km)
+                Output:         Globale Koordinaten ETRF93/CHTRF95 (ETRS89/CHTRS95/≈WGS84)
+                                Format: Geographisch L/B/H in [°]  (LTOP ED)
+
+        Höhen-Transformation:   ja
+                Input:          Landesnivellement LN02 (Gebrauchshöhen)
+                Output:         Ellipsoidische Höhen (GRS80)
+
+        Verwendete Parameter und Datensätze:
+                1: Htrans       HTRANS (swisstopo 2005)
+                2: CHGeo        CHGeo2004 (swisstopo 2004)
+                3: GPSRef       CHTRF95/CH1903+ (swisstopo 1997)
+
+--------------------------------------------------------------------------------
+
+Datei 1:
+--------
+
+Input:          Leventina_Turismo_239689532265584194.shp
+Output:         Leventina_Turismo_4611098358356571365.shp
+
+Bearbeitung erfolgreich beendet. 6564 Punkte fehlerfrei transformiert. 0'02".
+
+--------------------------------------------------------------------------------
