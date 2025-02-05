@@ -1,6 +1,6 @@
 Just for info:
 
-The files Lago_Maggiore_e_Valli.geojson, Lago_di_Lugano.geojson, Mendrisiotto.geojson and Bellinzona e Alto Ticino.geojson have been extracted from the ticinomap.geojson using the geojson viewer https://geojson.io/.
+The files Lago_Maggiore_e_Valli.geojson, Lugano Region.geojson, Mendrisiotto.geojson and Bellinzona e Alto Ticino.geojson have been extracted from the ticinomap.geojson using the geojson viewer https://geojson.io/.
 
 Steps:
 
